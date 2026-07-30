@@ -1,0 +1,37 @@
+-------------Case 1------------
+
+1) Graduation Image Prompt (Nano Banana)
+
+Use the uploaded person's exact identity, facial features, hairstyle, hair color, skin tone, and gender. Create a realistic university graduation ceremony viewed from the audience. A massive vertical LED screen dominates almost the entire composition and is the clear focal point. The camera is positioned among seated graduates, showing only the tops of graduation caps and heads in the foreground. A few graduates are holding up smartphones and recording the giant screen. The graduation ceremony is viewed primarily through the giant screen. On the screen, the uploaded person is standing on stage wearing a graduation gown and mortarboard cap, proudly holding a simple rolled diploma scroll tied with a red ribbon, with no text, logos, seals, university names, or readable writing, after receiving it from an elderly university rector. The uploaded person is the unmistakable main character. The rector remains visible nearby on the screen as part of the ceremony. The physical stage below is only minimally visible and secondary. No podiums, banners, university signs, logos, speakers, ceremony decorations, or unrelated people should draw attention outside the screen. The audience experiences the ceremony by watching and recording the giant screen. The LED screen occupies approximately 85-90% of the visual attention. Cinematic event photography, realistic crowd, shallow depth of field, ultra realistic, documentary style, professional graduation event.
+
+2) Graduation Image to Video Prompt (Kling V3 Image to Video Standart)
+
+Preserve the exact identity of the uploaded person. The giant vertical LED screen remains the primary focus throughout the entire video. On the screen, the uploaded person proudly holds a rolled diploma scroll tied with a red ribbon after graduation. The uploaded person naturally smiles, slightly shifts their posture, gently turns their head, blinks, and subtly raises the diploma while posing for the graduation audience. The elderly university rector beside them makes small natural movements. Several graduates in the foreground continue recording the giant screen with their smartphones. Natural audience energy, subtle applause, realistic graduation gown movement, authentic graduation ceremony atmosphere, realistic LED screen playback, documentary event footage, cinematic event coverage. No scene changes, no camera zooms, no dramatic movements, no walking toward the camera, no additional subjects becoming the focus. The uploaded person remains the center of attention throughout the entire clip
+
+-------------Case 2------------
+
+1) Baseball fan cam image (Nano Banana)
+
+A professional cinematic still of a viral Korean baseball fancam, captured like an authentic live KBO television audience reaction shot.
+
+The subject must be seated naturally in real stadium spectator seats during a live nighttime baseball game. Make it clearly visible that the subject is in the stands: visible stadium chair rows, cup holders, railings, seat backs, aisle steps, fans sitting closely around the subject, team scarves, snack cups, and layered rows of spectators behind them.
+
+The framing is a mostly front-facing medium close-up, like a real stadium broadcast camera zooming into the crowd from directly in front with only a very slight natural angle. Use a slightly wider medium close-up, not an extreme close-up, so the stadium seats and surrounding fans are clearly visible.
+
+The subject sits calmly while looking slightly off-camera toward the baseball field, never directly into the lens. The expression must remain neutral, serious, calm, and emotionally subtle. No smile, no exaggerated emotion.
+
+Use the uploaded input image as the strict identity reference. Preserve the subject’s exact facial structure, skin tone, hair color, hairstyle, hair texture, hair length, facial proportions, age, natural skin texture, and all facial details with extremely high fidelity. The subject must remain fully recognizable as the same person from the input image. Do not beautify, stylize, age, de-age, reshape, retouch, reinterpret, or modify the identity in any way.
+
+The subject must wear the exact same clothing, accessories, jewelry, and styling visible in the input image. Clothing replication must be accurate and unchanged. Do not replace the outfit with a baseball jersey or fan clothing.
+
+Realistic packed Korean baseball stadium at night. The background should show recognizable stadium structure and crowd context, but background faces should be naturally soft, slightly out of focus, and not individually detailed. Do not over-blur the crowd. Keep the stadium seating, rows, railings, aisles, spectators, lighting, and game atmosphere clearly readable.
+
+Add a single realistic KBO-style broadcast scoreboard overlay positioned only in the upper-left corner. Add a subtle LIVE broadcast bug in the upper-right corner. No lower-third graphics, no captions, no subtitles, no extra overlays, no watermark.
+
+Raw live broadcast TV realism, natural broadcast lighting, realistic stadium ambience, moderate depth of field, authentic lens compression, subtle cinematic grain, sharp focus on the subject, true sports broadcast camera composition.
+
+
+2)  Baseball fan cam video (Kling v3 image to video)
+
+Minimal natural stadium spectator movement only. Subject remains seated naturally while watching the game and never looks directly at the camera. Start with a calm forward gaze, then slowly turn the head to the right as if reacting to something happening on the field. Hold the gaze briefly, then gently look back toward the left side. Midway through the motion, casually lift one hand and softly adjust the hair behind the ear in a natural relaxed way. Add subtle blinking, realistic breathing, tiny posture shifts, slight shoulder relaxation, and soft facial micro-expressions. The subject may lightly lean back into the stadium seat for a moment before returning to a neutral watching pose. Natural hair movement, authentic live sports audience behavior, smooth cinematic broadcast-style realism, subtle realistic motion only, no exaggerated expressions, 5-second duration.
+
